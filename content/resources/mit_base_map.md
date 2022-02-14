@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: MIT_Base_Map.jpg
+type: OCWFile
 uid: 3df71a37-01b7-85cc-1c27-9857f1399a7a
 ---
