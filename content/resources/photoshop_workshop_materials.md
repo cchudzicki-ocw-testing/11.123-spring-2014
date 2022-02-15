@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: Photoshop_Workshop_Materials.zip
-type: OCWFile
 uid: 32cb3d4b-d32a-53b4-0440-ff8be0a1abef
 ---

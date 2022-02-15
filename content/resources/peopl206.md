@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: PEOPL206.psd
-type: OCWFile
 uid: a61477e6-a1b8-82ab-b9c3-cdcadbd6cf02
 ---

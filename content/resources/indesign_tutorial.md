@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: InDesign_Tutorial.zip
-type: OCWFile
 uid: efa4692e-225d-090e-91a2-814661be7cbb
 ---

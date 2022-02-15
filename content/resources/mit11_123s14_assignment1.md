@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11.123 big plans S14 assignment1
-type: OCWFile
 uid: def89fcf-8033-1387-ce72-9a8862b7a3c4
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: ACERSAC7.psd
-type: OCWFile
 uid: 3cf31da2-cf3b-6b8e-f0ff-82df7d043966
 ---
