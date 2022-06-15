@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required and recommended readings for
+  each lecture session of the course, as well as an overall recommended reading list.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

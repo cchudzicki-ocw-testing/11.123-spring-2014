@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments and workshops for the class, including
+  any associated files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
